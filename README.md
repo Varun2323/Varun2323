@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there Varun this side. 👋
 
 <!--
 **Varun2323/Varun2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm a student at Microverse focusing on fullstack web applications. Currently am  builiding projects based on HTML-5 and CSS-3 technoligies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on my health and making new projects.
+- 🌱 I’m currently HTML-5 / CSS-3
+- 👯 I’m looking to enhance 
+- 🤔 I’m looking for help with youtube/site redesign
+- 💬 Ask me about anything!
+- 📫 How to reach me: vrnsharma092@gmail.com. Feel free to contact me there.
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love to sing during cold water shower.
+
 -->
