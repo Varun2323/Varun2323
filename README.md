@@ -14,4 +14,3 @@ I'm a student at Microverse focusing on fullstack web applications. Currently am
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to sing during cold water shower.
 
--->
