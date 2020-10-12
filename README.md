@@ -1,8 +1,5 @@
 ### Hi there Varun this side. 👋
 
-<!--
-**Varun2323/Varun2323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm a student at Microverse focusing on fullstack web applications. Currently am  builiding projects based on HTML-5 and CSS-3 technoligies.
 
 - 🔭 I’m currently working on my health and making new projects.
