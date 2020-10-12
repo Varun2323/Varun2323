@@ -3,7 +3,7 @@
 I'm a student at Microverse focusing on fullstack web applications. Currently am  builiding projects based on HTML-5 and CSS-3 technoligies.
 
 - 🔭 I’m currently working on my health and making new projects.
-- 🌱 I’m currently HTML-5 / CSS-3
+- 🌱 I’m currently persuing my Fullstack development journey.
 - 👯 I’m looking to enhance 
 - 🤔 I’m looking for help with youtube/site redesign
 - 💬 Ask me about anything!
