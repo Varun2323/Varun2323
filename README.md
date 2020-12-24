@@ -16,8 +16,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Varun23233" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Varun23233" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/varun-sharma-82b29b82/" target="blank"><img align="center" src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG7.png" alt="Varun2323" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/varun-sharma-82b29b82/" target="blank"><img align="center" src="https://sguru.org/wp-content/uploads/2018/02/linkedin-logo-hd-png-3.png" alt="Varun2323" height="30" width="40" /></a>
+<a href="https://twitter.com/Varun23233" target="blank"><img align="center" src="https://5oci4lm3di4101.files.wordpress.com/2014/11/twitterbird1.jpg" alt="Varun23233" height="30" width="40" /></a>
 </p>
 
 
